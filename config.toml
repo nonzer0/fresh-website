@@ -1,4 +1,4 @@
-baseURL = 'http://neilswest.com/'
+baseURL = 'http://www.neilswest.com/'
 languageCode = 'en-us'
 title = 'Personal Website of Neil West'
 theme = 'terminal'
@@ -41,7 +41,7 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
+  creator = "nswest23"
   site = ""
 
 [languages]
