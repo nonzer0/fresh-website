@@ -13,8 +13,6 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-## Introduction
+## hello
 
-This is **bold** text, and this is *emphasized* text.
-
-Visit the [Hugo](https://gohugo.io) website!
+With any luck this will not be the last thing that I post here.
